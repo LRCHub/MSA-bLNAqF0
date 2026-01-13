@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "今もまだ青い。",
+  "base_artist": "至福ぽんちょ",
+  "createdAt": "2026-01-13T22:47:11.746911Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "今もまだ青い。",
+      "artist": "至福ぽんちょ",
+      "has_synced": false,
+      "path": "select/pl_01_今もまだ青い。_至福ぽんちょ.txt"
+    }
+  ]
+}
